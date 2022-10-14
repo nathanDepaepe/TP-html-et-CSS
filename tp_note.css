@@ -1,0 +1,96 @@
+body{
+    background-color: darkcyan;
+}
+
+.titre{
+    position: relative;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #5C2319;
+    background-color: darkgray;
+}
+
+.langue{
+    text-align: center;
+    color: white;
+    background-color:rgb(100,60,45);
+    padding: 10px;
+    z-index: 20;
+}
+
+.section{
+    position: relative;
+    top: -20px;
+    background-color: lightgrey;
+    z-index: 2;
+}
+
+h3{
+    text-decoration: underline;
+    color: rgb(110,60,45);
+}
+
+.section1{
+    position: relative;
+    text-align: left;
+    width: 500px;
+    left: 20px;
+    top: 50px;
+}
+
+.reseau{
+    position: relative;
+    top: 200px;
+}
+
+.image{
+    position: absolute;
+    left: auto;
+}
+
+.section2{
+    position: relative;
+    left: 500px;
+    top: -512px;
+    max-width: 200px;
+}
+
+.image2{
+    position: relative;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+h4{
+    text-align: center;
+    color: white;
+}
+
+
+.fin{
+    position: relative;
+    top: -30px;
+    background-color:rgb(100,60,45);
+    text-align: left;
+}
+
+.partenaires{
+    text-align: left;
+    color: white;
+    text-decoration: underline;
+}
+
+.copyright{
+    text-align: left;
+    color: white;
+    text-decoration: underline;
+}
+
+.motsC{
+    text-align: left;
+    color: white;
+    text-decoration: underline;
+}
